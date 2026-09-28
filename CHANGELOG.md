@@ -1,5 +1,11 @@
 # What's new
 
+## 1.1.1 (28 September 2026)
+
+- **About** now has a **Privacy policy** button, which opens the privacy policy on this site.
+- The stop search and stop code boxes use City Hall as their example ("e.g. City Hall",
+  "e.g. 001636"), a stop everyone knows.
+
 ## 1.1.0 (28 September 2026)
 
 The first release for friends.
