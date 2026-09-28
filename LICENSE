@@ -1,0 +1,23 @@
+Next Bus NI
+Copyright (c) 2026 Stephen McCaffrey. All rights reserved.
+
+The Next Bus NI app, including its design, graphics and documentation, and the files in this
+repository, are the property of Stephen McCaffrey. The app is not open source, and this
+repository contains no source code.
+
+The Next Bus NI app may be downloaded and used free of charge, for personal use, from the
+official channels the copyright holder publishes it through (this repository's releases, and
+Google Play once it's listed there). That permission covers using the app only; it grants no
+rights in the software itself, and it may be withdrawn at any time.
+
+No licence is granted to copy, modify, publish, redistribute, sublicense, sell, or create
+derivative works from the app or any part of it, including re-hosting its APK files elsewhere,
+without the prior written permission of the copyright holder.
+
+The app is provided "as is", without warranty of any kind. Bus times come from Translink's
+Journey Planner and may be wrong or missing. Next Bus NI is not affiliated with Translink.
+
+Third-party libraries used by the app are under their own licences (the Apache License,
+Version 2.0); they're listed in the app under About > Third-party licences.
+
+Contact: nextbusni@gmail.com
