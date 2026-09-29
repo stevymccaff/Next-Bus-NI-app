@@ -1,5 +1,10 @@
 # What's new
 
+## 1.1.2 (29 September 2026)
+
+- The app icon is tidied up: the bus's rear wheel and the clock are now the same size.
+- Includes everything in 1.1.1 below, which was never released separately.
+
 ## 1.1.1 (28 September 2026)
 
 - **About** now has a **Privacy policy** button, which opens the privacy policy on this site.
